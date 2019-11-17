@@ -10,7 +10,7 @@ When someone purchases a domain, the domain always ends in an existing effective
 
 ## Requirements
 
-This will only work in a browser when cookies are enabled.
+This will only work in a browser and cookies must be enabled.
 
 ## How detection is accomplished
 
