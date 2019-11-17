@@ -1,6 +1,6 @@
 {
   "name": "get-etld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns the effective top-level domain (eTLD) of the current web page without the use of a public suffix list.",
   "author": "Aaron Hardy",
   "contributors": [
