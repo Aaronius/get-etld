@@ -6,6 +6,10 @@
   "contributors": [
     "Joe Khoury"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Aaronius/get-etld.git"
+  },
   "keywords": [
     "eTLD",
     "TLD",
@@ -60,6 +64,6 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
-    "get-apex-domain": "^1.0.1"
+    "get-apex-domain": "^1.0.2"
   }
 }
